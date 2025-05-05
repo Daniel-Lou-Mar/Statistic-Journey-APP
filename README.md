@@ -1,4 +1,4 @@
-# Predictive Travel Model Using SkyScanner API and R
+# Predictive Travel Model Using SkyScanner API and R and Trip Destination Recommender APP
 
 ## Mission
 
